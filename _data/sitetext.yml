@@ -30,7 +30,15 @@ en: &DEFAULT_EN
       - title: "Full Kitchen, Outdoor Hangouts, Stone Fireplace, Bathroom"
         desc: "Microwave, oven, electric cooktop, under-cabinet refrigerator and Keurig machine including complementary coffee, tea, and hot chocolate. Two large patios featuring a hot tub, propane grill, seating area and outdoor fire pit (firewood provided) for making memories and sharing s'mores. Relax and read a book, enjoy your favorite beverage, play a board game or just enjoy the views in front of a wall of windows and a towering stone fireplace. Sip a glass of wine and unwind in seperate soaking tub or wash your worries away under the gentle shower featuring dual rain heads."
         icon: fas fa-bath
-
+      - title: "Full Kitchen, Outdoor Hangouts, Stone Fireplace, Bathroom"
+        desc: "Microwave, oven, electric cooktop, under-cabinet refrigerator and Keurig machine including complementary coffee, tea, and hot chocolate. Two large patios featuring a hot tub, propane grill, seating area and outdoor fire pit (firewood provided) for making memories and sharing s'mores. Relax and read a book, enjoy your favorite beverage, play a board game or just enjoy the views in front of a wall of windows and a towering stone fireplace. Sip a glass of wine and unwind in seperate soaking tub or wash your worries away under the gentle shower featuring dual rain heads."
+        icon: fas fa-bath
+      - title: "Full Kitchen, Outdoor Hangouts, Stone Fireplace, Bathroom"
+        desc: "Microwave, oven, electric cooktop, under-cabinet refrigerator and Keurig machine including complementary coffee, tea, and hot chocolate. Two large patios featuring a hot tub, propane grill, seating area and outdoor fire pit (firewood provided) for making memories and sharing s'mores. Relax and read a book, enjoy your favorite beverage, play a board game or just enjoy the views in front of a wall of windows and a towering stone fireplace. Sip a glass of wine and unwind in seperate soaking tub or wash your worries away under the gentle shower featuring dual rain heads."
+        icon: fas fa-bath
+      - title: "Full Kitchen, Outdoor Hangouts, Stone Fireplace, Bathroom"
+        desc: "Microwave, oven, electric cooktop, under-cabinet refrigerator and Keurig machine including complementary coffee, tea, and hot chocolate. Two large patios featuring a hot tub, propane grill, seating area and outdoor fire pit (firewood provided) for making memories and sharing s'mores. Relax and read a book, enjoy your favorite beverage, play a board game or just enjoy the views in front of a wall of windows and a towering stone fireplace. Sip a glass of wine and unwind in seperate soaking tub or wash your worries away under the gentle shower featuring dual rain heads."
+        icon: fas fa-bath
   portfolio:
     title: "Attractions"
     text: "Wineries in Hermann and Augusta "
