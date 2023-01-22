@@ -31,7 +31,7 @@ en: &DEFAULT_EN
         desc: "Microwave, oven, electric cooktop, under-cabinet refrigerator and Keurig machine including complementary coffee, tea, and hot chocolate."
         icon: fas fa-bath
         title: "Outdoor Hangouts"
-        desc: "Two large patios featuring a hot tub, propane grill, seating area and outdoor fire pit (firewood provided) for making memories and sharing s'mores." 
+        desc: "Two large patios featuring a hot tub, propane grill, seating area and outdoor fire pit (firewood provided) for making memories and sharing s-mores." 
         icon: fa fa-bed
       - title: "Bathroom"
         desc: "Sip a glass of wine and unwind in seperate soaking tub or wash your worries away under the gentle shower featuring dual rain heads. Complimentary make-up remover wipes, hairdryer, and towels included."
