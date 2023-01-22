@@ -24,21 +24,7 @@ en: &DEFAULT_EN
         title: "King Size Bed"
         desc: "Beautiful views of the spectaluar night sky from a luxurious memory foam mattress."
         icon: fa fa-bed
-      - title: "Private Hot Tub"
-        desc: "Enjoy a relaxing soak in a private hot tub nestled in the trees overlooking the lake."
-        icon: fas fa-bath
-      - title: "Fully Furnished Kitchen"
-        desc: "Microwave, oven, electric cooktop, under-cabinet refrigerator and Keurig machine including complementary coffee, tea, and hot chocolate."
-        icon: fas fa-bath
-        title: "Outdoor Hangouts"
-        desc: "Two large patios featuring a hot tub, propane grill, seating area and outdoor fire pit (firewood provided) for making memories and sharing s-mores." 
-        icon: fa fa-bed
-      - title: "Bathroom"
-        desc: "Sip a glass of wine and unwind in seperate soaking tub or wash your worries away under the gentle shower featuring dual rain heads. Complimentary make-up remover wipes, hairdryer, and towels included."
-        icon: fas fa-bath
-      - title: "Stone Fireplace"
-        desc: "Relax and read a book, enjoy your favorite beverage, play a board game or just enjoy the views in front of a wall of windows and a towering stone fireplace."
-        icon: fas fa-bath
+
   portfolio:
     title: "Attractions"
     text: "Wineries in Hermann and Augusta "
