@@ -24,10 +24,6 @@ en: &DEFAULT_EN
         title: "King Size Bed"
         desc: "Beautiful views of the spectaluar night sky from a luxurious memory foam mattress."
         icon: fa fa-bed
-      - title: "Private Hot Tub"
-        desc: "Enjoy a relaxing soak in a private hot tub nestled in the trees overlooking the lake."
-        icon: fas fa-bath
-
 
   portfolio:
     title: "Attractions"
