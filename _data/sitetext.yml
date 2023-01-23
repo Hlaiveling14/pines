@@ -21,23 +21,23 @@ en: &DEFAULT_EN
     text: "Amenities"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "King Size Bed"
+        desc: "eautiful views of the spectaluar night sky from a luxurious memory foam mattress."
+        icon: fa fa-bed
+      - title: "Private Hot Tub"
+        desc: "Enjoy a relaxing soak in a private hot tub nestled in the trees overlooking the lake."
+        icon: fas fa-bath
+      - title: "Fully Furnished Kitchen"
+        desc: "Microwave, oven, electric cooktop, under-cabinet refrigerator and Keurig machine including complementary coffee, tea, and hot chocolate."
         icon: fab fa-markdown      
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Outdoor Hangouts"
+        desc: "Two large patios featuring a hot tub, propane grill, seating area and outdoor fire pit (firewood provided) for making memories and sharing s'mores."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "Luxury Bathroom"
+        desc: "Sip a glass of wine and unwind in seperate soaking tub or wash your worries away under the gentle shower featuring dual rain heads. Complimentary make-up remover wipes, hairdryer, and towels included."
+        icon: fas fa-bath
+      - title: "Stone Fireplace"
+        desc: "Relax and read a book, enjoy your favorite beverage, play a board game or just enjoy the views in front of a wall of windows and a towering stone fireplace."
         icon: fab fa-markdown 
 
   portfolio:
