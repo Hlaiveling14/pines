@@ -28,7 +28,7 @@ en: &DEFAULT_EN
         desc: "Enjoy a relaxing soak in a private hot tub nestled in the trees overlooking the lake."
         icon: fas fa-bath
       - title: "Fully Furnished Kitchen"
-        desc: "Microwave, oven, electric cooktop."
+        desc: "Microwave oven electric cooktop."
         icon: fas fa-bath
 
   portfolio:
