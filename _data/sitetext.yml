@@ -24,7 +24,18 @@ en: &DEFAULT_EN
         title: "King Size Bed"
         desc: "Beautiful views of the spectaluar night sky from a luxurious memory foam mattress."
         icon: fa fa-bed
-
+        title: "King Size Bed"
+        desc: "Beautiful views of the spectaluar night sky from a luxurious memory foam mattress."
+        icon: fa fa-bed
+        title: "King Size Bed"
+        desc: "Beautiful views of the spectaluar night sky from a luxurious memory foam mattress."
+        icon: fa fa-bed        
+        title: "King Size Bed"
+        desc: "Beautiful views of the spectaluar night sky from a luxurious memory foam mattress."
+        icon: fa fa-bed
+        title: "King Size Bed"
+        desc: "Beautiful views of the spectaluar night sky from a luxurious memory foam mattress."
+        icon: fa fa-bed
   portfolio:
     title: "Attractions"
     text: "Wineries in Hermann and Augusta "
