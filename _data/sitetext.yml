@@ -26,10 +26,10 @@ en: &DEFAULT_EN
         icon: fa fa-bed
       - title: "Private Hot Tub"
         desc: "Enjoy a relaxing soak in a private hot tub nestled in the trees overlooking the lake."
-        icon: fas fa-bath
+        icon: fa fa-tint
       - title: "Fully Furnished Kitchen"
         desc: "Microwave, oven, electric cooktop, under-cabinet refrigerator and Keurig machine including complementary coffee, tea, and hot chocolate."
-        icon: fa fa-cutlery     
+        icon: fa fa-home    
       - title: "Outdoor Hangouts"
         desc: "Two large patios featuring a hot tub, propane grill, seating area and outdoor fire pit (firewood provided) for making memories and sharing s'mores."
         icon: fa fa-tree
