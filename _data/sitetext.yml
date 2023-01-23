@@ -21,15 +21,15 @@ en: &DEFAULT_EN
     text: "Amenities"
     section: services
     list:
-      - title: "King Size Bed"
-        desc: "Beautiful views of the spectaluar night sky from a luxurious memory foam mattress."
-        icon: fa fa-bed
-      -  title: "Private Hot Tub"
-        desc: "Enjoy a relaxing soak in a private hot tub nestled in the trees overlooking the lake."
-        icon: fa fa-bed
-      -  title: "Fully Furnished Kitchen"
-        desc: "Microwave, oven, electric cooktop, under-cabinet refrigerator and Keurig machine including complementary coffee, tea, and hot chocolate."
-        icon: fa fa-bed        
+      - title: "E-Commerce"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Responsive Design"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-laptop
+      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Your description here, full **Markdown** support"
+        icon: fab fa-markdown      
  
 
   portfolio:
