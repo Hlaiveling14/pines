@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "King Size Bed"
-        desc: "eautiful views of the spectaluar night sky from a luxurious memory foam mattress."
+        desc: "Beautiful views of the spectacluar night sky from a luxurious memory foam mattress."
         icon: fa fa-bed
       - title: "Private Hot Tub"
         desc: "Enjoy a relaxing soak in a private hot tub nestled in the trees overlooking the lake."
@@ -42,7 +42,22 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Attractions"
-    text: "Wineries in Hermann and Augusta "
+    text: "Explore "
+    section: portfolio
+    closebutton: "Close"
+    text: "Hiking"
+    section: portfolio
+    closebutton: "Close"
+    text: "Relax"
+    section: portfolio
+    closebutton: "Close"
+    text: "Shopping"
+    section: portfolio
+    closebutton: "Close"
+    text: "Seasonal Attractions "
+    section: portfolio
+    closebutton: "Close"
+    text: "Dining"
     section: portfolio
     closebutton: "Close"
 
@@ -50,12 +65,6 @@ en: &DEFAULT_EN
     title: "Our Story"
     text: "our story"
     body: "Having a love for the outdoors, we have hiked, camped and traveled many miles enjoying the tranquility and beauty of nature. As we shared our desires and dreams for the future, the idea of building treehouses in the woods to create a get-away from the busyness of life and to relax in nature actually became a reality. His construction knowledge, creativity and desire to build custom structures with my added sparkle at the end, brings you the beautiful Whispering Pines Treehouses. We invite you to follow us on Facebook or Instagram as we will soon reveal the next phase of our dream. We truly hope you take time to enjoy sitting on the patio while grilling your dinner near the pond or soak in the hot tub to take time to disconnect with the world and invest in yourself and your partner." 
-    section: about
-
-  about:
-    title: "About Us2"
-    text: "our story2"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
 
   timeline:
