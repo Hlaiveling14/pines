@@ -1,10 +1,12 @@
 ---
 title: Relax
+subtitle: Time just for you
 image: assets/img/portfolio/03-full.jpg
 alt: 
 
 caption:
   title: Relax
+  subtitle: Time just for you
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
 Would you like to spend a quiet afternoon or evening in front of the fire?
