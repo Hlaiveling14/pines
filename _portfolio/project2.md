@@ -29,7 +29,7 @@ From Jonesburg, take Route Y southwest 5 miles, then take Tower Road southwest 2
 For more information call
 (636) 456-3368<br><br>
 
-<h1>Little Lost Creek Conservation Area</h2>
+<h1>Little Lost Creek Conservation Area</h1>
 Little Lost Creek is a partially spring-fed Ozark stream, characterized by clear water and a rocky
 stream bed. Brilliantly colored Ozark fish species, such as bleeding shiners, southern red belly
 dace, and stippled darters are found in the streams. The 2,899-acre area consists mostly of
@@ -55,3 +55,46 @@ Directions<br>
 
 From Pendleton, take Route B south 4 miles, or from Pendleton take, Route EE south 4 miles.<br>
 (636) 456-3368
+
+<h1>Indian Camp Creek Park</h1>
+Indian Camp Creek Park is a popular destination for outdoor enthusiasts.
+It is St. Charles County’s largest park with 603 acres, including more than
+10 miles of multi-use trails for hiking, biking, and equestrian use. Camping,
+disc golf, fishing and an inclusive playground are just some of the amenities
+found there. Situated at the confluence of Big Creek and Indian Camp
+Creek, fishing is plentiful. A large lake on the property is stocked with
+bluegill, bass, and catfish.<br>
+History lovers will find the park exciting as well and will want to find their
+way to the historical Cannon family cemetery. This cemetery has been
+preserved on park property and has headstones dating back to the early
+19th century. Additionally, a 'ghost structure' of the original log cabin built
+in the late 1800s on the site still stands in the park. Climb to the top of the
+restored silo, which serves as an observation tower, and discover the
+beautiful prairies, vast wooded hills, and protected habit found throughout
+the park.<br>
+Address:<br>
+2679 Dietrich Road
+Foristell, MO 63348<br>
+Park Hours:<br>
+The park opens at 7 a.m. and closes half an hour after sunset.<br><br>
+
+<h1>Katy Trail</h1>
+Walk a portion of the famous 240 mile trail. Head out on this 34.5-mile point-to-
+point trail near Hermann, Missouri. Generally considered an easy route, it takes
+an average of 10 h 10 min to complete. This is a popular trail for birding,
+mountain biking, and running, but you can still enjoy some solitude during
+quieter times of day. The trail is open year-round and is beautiful to visit
+anytime. Dogs are welcome, but must be on a leash.<br>
+Length: 34.5 mi<br>
+Elevation gain: 374 ft<br><br>
+
+<h1>Klondike Park</h1>
+Klondike Park is one of the best places for camping in the Augusta region.
+Whether you’re into rustic camping of glamping, there are options of you. There
+are 43 campsites for those interested in staying in your RV or tenting, and there
+are six cabins that sleep up to eight. Along with camping, visitors can use the
+amenities in the park, including a shower house, a playground, and the famous
+Katy Trail. Klondike Park is located on the Missouri River, so boaters can dock
+and go out as they please. The on-site lake encourages harvest fishing, which is
+the opposite of catch and release.<br> Contact information - 4600 Highway 94 S.,
+Augusta, MO 63332, Phone: 636-949-7535
