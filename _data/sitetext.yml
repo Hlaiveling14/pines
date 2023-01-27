@@ -62,7 +62,7 @@ en: &DEFAULT_EN
     closebutton: "Close"
 
   about:
-    title: "Our Story"
+    title: "About Us"
     text: "About Your Hosts"
     body: "Having a love for the outdoors, we have hiked, camped and traveled many miles enjoying the tranquility and beauty of nature. As we shared our desires and dreams for the future, the idea of building treehouses in the woods to create a get-away from the busyness of life and to relax in nature actually became a reality. His construction knowledge, creativity and desire to build custom structures with my added sparkle at the end, brings you the beautiful Whispering Pines Treehouses. We invite you to follow us on Facebook or Instagram as we will soon reveal the next phase of our dream. We truly hope you take time to enjoy sitting on the patio while grilling your dinner near the pond or soak in the hot tub to take time to disconnect with the world and invest in yourself and your partner." 
     section: about
@@ -105,10 +105,10 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Wendy"
-        role: "Lead Designer & Visionary"
+        role: "Interior Designer & Visionary"
         image: assets/img/team/3.jpg
       - name: "Luke"
-        role: "General Contractor"
+        role: "Master Designer & General Contractor"
         image: assets/img/team/2.jpg
       - name: "Holly"
         role: "Tech Guru"

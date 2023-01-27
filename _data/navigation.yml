@@ -15,12 +15,13 @@ en: &DEFAULT_EN
       section: services
     - title: "Attractions"
       section: portfolio
-    - title: "Our Story"
+    - title: "About"
       section: about
+    - title: "Our Story"
+      section: timeline
     - title: "Contact"
       section: contact
-    - title: "FAQ"
-      section: faq
+S
 en-US:
   <<: *DEFAULT_EN
 en-CA:
