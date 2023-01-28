@@ -102,6 +102,7 @@ en: &DEFAULT_EN
   team:
     title: "Ownership Team"
     text: "Meet the people working to make your dreams a reality"
+    subtext: "We hope you enjoy your stay"
     section: team
     people:
       - name: "Wendy"
