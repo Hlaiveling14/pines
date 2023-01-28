@@ -109,10 +109,10 @@ en: &DEFAULT_EN
         image: assets/img/team/girl1.jpg
       - name: "Luke"
         role: "Master Designer & General Contractor"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/guy1.jpg
       - name: "Holly"
         role: "Tech Guru"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/girl2.png
 
   contact:
     title: "Contact Us"
