@@ -106,7 +106,7 @@ en: &DEFAULT_EN
     people:
       - name: "Wendy"
         role: "Interior Designer & Visionary"
-        image: assets/img/team/3.jpg
+        image: assets/img/team/girl1.jpg
       - name: "Luke"
         role: "Master Designer & General Contractor"
         image: assets/img/team/2.jpg
