@@ -98,11 +98,10 @@ en: &DEFAULT_EN
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
-
   team:
     title: "Ownership Team"
     text: "Meet the people working to make your dreams a reality"
-    subtext: "We hope you enjoy your stay"
+    subtext: We hope you enjoy your stay
     section: team
     people:
       - name: "Wendy"
@@ -114,6 +113,7 @@ en: &DEFAULT_EN
       - name: "Holly"
         role: "Tech Guru"
         image: assets/img/team/1.jpg
+
   contact:
     title: "Contact Us"
     text: "Drop us a note, we LOVE to meet new people!"
