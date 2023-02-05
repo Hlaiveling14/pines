@@ -1,7 +1,7 @@
 ---
 title: Dining
 subtitle: Visit our local small businesses
-image: assets/img/portfolio/04-full.jpg
+image: assets/img/portfolio/Dining.jpg
 alt: 
 
 caption:
