@@ -1,7 +1,7 @@
 ---
 title: Explore
 subtitle: A History of Jonesburg
-image: assets/img/portfolio/01-full.jpg
+image: assets/img/portfolio/Town.jpg
 alt: Shirts on a hanger
 
 caption:
