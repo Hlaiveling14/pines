@@ -7,7 +7,7 @@ alt:
 caption:
   title: Shopping
   subtitle: Something for everyone
-  thumbnail: assets/img/portfolio/SugarMamas.jpg
+  thumbnail: assets/img/portfolio/Fall-thumbnail.jpg
 ---
 **The Shoppes at Warrenton** - 1000 Warrenton Shoppes, Warrenton, MO 63383, (314)
 584-1606<br>
