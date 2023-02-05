@@ -89,7 +89,7 @@ en: &DEFAULT_EN
       - title: "Found It!"
         year: "Spring 2022"
         desc: "After much searching, on a cold rainy day we found the most beautiful piece of property with tree covered ridges overlooking scenic valleys with tall pines whispering in the wind. Shortly thereafter, we were fortunate enough to make it our own."
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/Timeline3.jpg
         alt: image alt text
       - title: "Building all fall"
         year: "Fall 2022"
