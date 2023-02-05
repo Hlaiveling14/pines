@@ -1,7 +1,7 @@
 ---
 title: Shopping
 subtitle: Something for everyone
-image: assets/img/portfolio/Antiques-thumbnail.jpg
+image: assets/img/portfolio/SugarMamasBig.jpg
 alt: 
 
 caption:
