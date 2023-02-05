@@ -7,7 +7,7 @@ alt: Keep Exploring
 caption:
   title: Hiking
   subtitle: Enjoy the great outdoors
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  thumbnail: assets/img/portfolio/Trails-thumbnail.jpg
 ---
 <h1>Daniel Boone Conservation Area</h1>
 
