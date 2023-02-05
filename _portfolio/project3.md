@@ -1,13 +1,13 @@
 ---
 title: Relax
 subtitle: Time just for you
-image: assets/img/portfolio/03-full.jpg
+image: assets/img/portfolio/Relax.jpg
 alt: 
 
 caption:
   title: Relax
   subtitle: Time just for you
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  thumbnail: assets/img/portfolio/Relax-thumbnail.jpg
 ---
 Would you like to spend a quiet afternoon or evening in front of the fire?
 Make a bag of complimentary popcorn and enjoy a board game. Books and/or
