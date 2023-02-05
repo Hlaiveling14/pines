@@ -35,5 +35,4 @@ association.<br>
 2016 – CertainTeed Roofing opens a new $100 million facility in Jonesburg, bringing
 with it nearly 100 new jobs.<br>
 Today – Jonesburg is a popular stop for travelers along I-70 and is loved by more than
-720 residents who call it home.<br>
-See the 2022 Homecoming Parade: https://www.youtube.com/watch?v=I3gXyF_718c&t=15s<br>
+720 residents who call it home.<br><br>
