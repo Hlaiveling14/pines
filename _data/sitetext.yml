@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Amenities"
-    text: "See our full portfolio of pictures on our booking site.<div class="airbnb-embed-frame" data-id="591471309281413007" data-view="home" style="width:450px;height:300px;margin:auto"><a href="https://www.airbnb.com/rooms/591471309281413007?check_in=2023-02-22&amp;check_out=2023-02-24&amp;guests=1&amp;adults=2&amp;s=66&amp;source=embed_widget">View On Airbnb</a><a href="https://www.airbnb.com/rooms/591471309281413007?check_in=2023-02-22&amp;check_out=2023-02-24&amp;guests=1&amp;adults=2&amp;s=66&amp;source=embed_widget" rel="nofollow">Romantic NEW Secluded Treehouse</a><script async="" src="https://www.airbnb.com/embeddable/airbnb_jssdk"></script></div>"
+    text: "See our full portfolio of pictures on our booking site."
     section: services
     list:
       - title: "King Size Bed"
