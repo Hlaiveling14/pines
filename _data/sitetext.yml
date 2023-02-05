@@ -140,7 +140,7 @@ en: &DEFAULT_EN
         icon: "fab fa-instagram"
       - url: https://www.airbnb.com/rooms/591471309281413007?check_in=2023-02-22&amp%3Bcheck_out=2023-02-24&amp%3Bguests=1&amp%3Badults=2&amp%3Bs=66&amp%3Bsource=embed_widget&source_impression_id=p3_1675611710_3PSRwIBdnp6CXInb
         icon: "fa fa-home" 
-       - url: https://www.vrbo.com/2789365?unitId=3361321&childrenCount=0&noDates=true&utm_source=direct&utm_medium=social&utm_campaign=earned:vrbo:sharecopylink:USA&utm_content=2789365&oc=zURThLKK58sEYLrXgKr6c
+      - url: https://www.vrbo.com/2789365?unitId=3361321&childrenCount=0&noDates=true&utm_source=direct&utm_medium=social&utm_campaign=earned:vrbo:sharecopylink:USA&utm_content=2789365&oc=zURThLKK58sEYLrXgKr6c
         icon: "fa fa-compass" 
 en-US:
   <<: *DEFAULT_EN
