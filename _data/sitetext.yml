@@ -94,7 +94,7 @@ en: &DEFAULT_EN
       - title: "Building all fall"
         year: "Fall 2022"
         desc: "After spending all summer planning and preparing, we were so excited to break ground on our idyllic cabin nestled in the tall trees overlooking a private lake. As our idea came to life, our anticipation grew to be able to share this perfect escape with others to enjoy. Completed in the Winter of 2023, our unique oasis opened its doors for you to experience for yourself."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/Timeline4.jpg
         alt:
         # you can enforce the alignment
         align: right
