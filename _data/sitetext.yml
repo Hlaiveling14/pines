@@ -111,7 +111,7 @@ en: &DEFAULT_EN
         image: assets/img/team/Wendy.jpg
       - name: "Luke"
         role: "Master Designer & General Contractor"
-        image: assets/img/team/guy1.jpg
+        image: assets/img/team/Luke.jpg
       - name: "Holly"
         role: "Tech Guru"
         image: assets/img/team/girl3.jpg
