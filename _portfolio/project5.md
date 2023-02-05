@@ -7,7 +7,7 @@ alt:
 caption:
   title: Seasonal Attractions
   subtitle: Enjoy all the area has to offer
-  thumbnail: assets/img/portfolio/05-thumbnail.jpg
+  thumbnail: assets/img/portfolio/Fall-thumbnail.jpg
 ---
 **Playday Farm** – Pumpkin Patch, 4.5 mile corn maze, family amusement rides, a train,
 barnyard animals &amp; food concessions. October 15th - 31st, 1014 Booneslick Rd., High
