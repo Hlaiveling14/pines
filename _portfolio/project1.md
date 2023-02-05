@@ -7,7 +7,7 @@ alt: Shirts on a hanger
 caption:
   title: Explore
   subtitle: A History of Jonesburg
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: assets/img/portfolio/Town-thumbnail.jpg
 ---
 Enjoy reading about the city you are staying in and history facts.<br>
 1829 – James Jones, arrives via stagecoach and settles here. He rents a room at a
@@ -35,4 +35,5 @@ association.<br>
 2016 – CertainTeed Roofing opens a new $100 million facility in Jonesburg, bringing
 with it nearly 100 new jobs.<br>
 Today – Jonesburg is a popular stop for travelers along I-70 and is loved by more than
-720 residents who call it home.<br><br>
+720 residents who call it home.<br>
+See the 2022 Homecoming Parade: https://www.youtube.com/watch?v=I3gXyF_718c&t=15s<br>
