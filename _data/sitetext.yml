@@ -112,9 +112,7 @@ en: &DEFAULT_EN
       - name: "Luke"
         role: "Master Designer & General Contractor"
         image: assets/img/team/Luke.jpg
-      - name: "Holly"
-        role: "Tech Guru"
-        image: assets/img/team/Holly.jpg
+
 
   contact:
     title: "Contact Us"
