@@ -7,7 +7,7 @@ alt:
 caption:
   title: Dining
   subtitle: Visit our local small businesses
-  thumbnail: assets/img/portfolio/04-thumbnail.jpg
+  thumbnail: assets/img/portfolio/Dining-thumbnail.jpg
 ---
 <h1>Desire a local restaurant? Try one of these:</h1>
 **Frumpy Joe’s – American Restaurant** – 105 E. Booneslick Rd, Jonesburg,
