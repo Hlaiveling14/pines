@@ -18,12 +18,12 @@ en: &DEFAULT_EN
 
   services:
     title: "Amenities"
-    text: "Amenities"
+    text: "See our full portfolio of pictures on our booking site."
     section: services
     list:
       - title: "King Size Bed"
         desc: "Beautiful views of the spectacluar night sky from a luxurious memory foam mattress."
-        icon: fa fa-bed
+        icon: assets/img/portfolio/02-thumbnail.jpg
       - title: "Private Hot Tub"
         desc: "Enjoy a relaxing soak in a private hot tub nestled in the trees overlooking the lake."
         icon: fa fa-tint
@@ -91,7 +91,7 @@ en: &DEFAULT_EN
         alt: image alt text
       - title: "Building all fall"
         year: "Fall 2022"
-        desc: "After spending all summer planning and preparing, we were so excited to break ground on our idyllic cabin nestled in the tall trees overlooking a private lake. As our idea came to life, our anticipation grew to be able to share this perfect escape with others to enjoy. Completed in the Winter of 2023, our unique oasis opened its doors for you to experiece for yourself."
+        desc: "After spending all summer planning and preparing, we were so excited to break ground on our idyllic cabin nestled in the tall trees overlooking a private lake. As our idea came to life, our anticipation grew to be able to share this perfect escape with others to enjoy. Completed in the Winter of 2023, our unique oasis opened its doors for you to experience for yourself."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
