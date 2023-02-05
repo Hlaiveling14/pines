@@ -1,7 +1,7 @@
 ---
 title: Hiking
 subtitle: Enjoy the great outdoors
-image: assets/img/portfolio/02-full.jpg
+image: assets/img/portfolio/Trails.jpg
 alt: Keep Exploring
 
 caption:
